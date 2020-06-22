@@ -5,14 +5,14 @@ target:Жертва
 target:Призрак
 target:Выживальщик
 
-character:Повар
-character:Столяр
+character:Повар:30:-:+:asd
+character:Столяр:40:-:+:asdf
 
-hobby:Садовод
-hobby:Нет
+hobby:Садовод:-
+hobby:Нет: 
 
-open:Немота
-open:Слепота
+open:Немота:-
+open:Слепота:-
 
-hide:Биполярное расстройство
-hide:фыв
+hide:Биполярное расстройство:-
+hide:фыв: 
