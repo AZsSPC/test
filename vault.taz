@@ -5,8 +5,8 @@ target:Жертва:
 target:Призрак: 
 target:Выживальщик: 
 
-character:Повар:30:Мужчина:sd,fd:+:asd:asdassad
-character:Столяр:40:Женщина:-:+:asdf:asdasdasd
+character:Повар:30:Мужчина:Олег:sd,fd:+:asd:asdassad
+character:Столяр:40:Женщина:Оксана:-:+:asdf:asdasdasd
 
 hobby:Садовод:-
 hobby:Нет: 
