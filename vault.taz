@@ -10,6 +10,12 @@ target:Выживальщик > asd
 
 open:+:Садовод > asd
 open:+:Садовод > asd
+open:-:Садовод > asd
+open:-:Садовод > asd
+open:=:Садовод > asd
 
 hide:+:Садовод > asd
 hide:+:Садовод > asd
+hide:-:Садовод > asd
+hide:-:Садовод > asd
+hide:=:Садовод > asd
