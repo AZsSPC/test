@@ -1,5 +1,5 @@
-character:Повар > a:30 > a:Мужчина > a:Олег >  :sd > asd;fd > asd:+ > Asd:asd > asdasd: > asdassad
-character:Столяр > a:40 > a:Женщина > a:Оксана >  :- > asd:+ > asda:asdf > asdsa: > asdasdasd
+character:Повар > a:30 > a:Мужчина > a:Олег >  :sd > asd;fd > asd:+ > Asd:asd > asdasd:asdasd > asdassad
+character:Столяр > a:40 > a:Женщина > a:Оксана >  :- > asd:+ > asda:asdf > asdsa:asdasd > asdasdasd
 
 target:Маньяк > asd
 target:Суицидник > asd
