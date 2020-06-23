@@ -1,18 +1,18 @@
-target:Маньяк: 
-target:Суицидник: 
-target:Геноцидник: 
-target:Жертва: 
-target:Призрак: 
-target:Выживальщик: 
+target:Маньяк>asd
+target:Суицидник>asd
+target:Геноцидник>asd
+target:Жертва>asd
+target:Призрак>asd
+target:Выживальщик>asd
 
-character:Повар:30:Мужчина:Олег:sd,fd:+:asd:asdassad
-character:Столяр:40:Женщина:Оксана:-:+:asdf:asdasdasd
+character:Повар:30:Мужчина:Олег:sd>asd;fd>asd:+>Asd:asd>asdasd:asdassad
+character:Столяр:40:Женщина:Оксана:->asd:+>asda:asdf>asdsa:asdasdasd
 
-hobby:Садовод:-
-hobby:Нет: 
+hobby:+:Садовод>asd
+hobby:+:Садовод>asd
 
-open:Немота:-
-open:Слепота:-
+open:+:Садовод>asd
+open:+:Садовод>asd
 
-hide:Биполярное расстройство:-
-hide:фыв: 
+hide:+:Садовод>asd
+hide:+:Садовод>asd
