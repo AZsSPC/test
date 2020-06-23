@@ -1,18 +1,15 @@
-target:Маньяк>asd
-target:Суицидник>asd
-target:Геноцидник>asd
-target:Жертва>asd
-target:Призрак>asd
-target:Выживальщик>asd
+character:Повар > a:30 > a:Мужчина > a:Олег >  :sd > asd;fd > asd:+ > Asd:asd > asdasd: > asdassad
+character:Столяр > a:40 > a:Женщина > a:Оксана >  :- > asd:+ > asda:asdf > asdsa: > asdasdasd
 
-character:Повар:30:Мужчина:Олег:sd>asd;fd>asd:+>Asd:asd>asdasd:asdassad
-character:Столяр:40:Женщина:Оксана:->asd:+>asda:asdf>asdsa:asdasdasd
+target:Маньяк > asd
+target:Суицидник > asd
+target:Геноцидник > asd
+target:Жертва > asd
+target:Призрак > asd
+target:Выживальщик > asd
 
-hobby:+:Садовод>asd
-hobby:+:Садовод>asd
+open:+:Садовод > asd
+open:+:Садовод > asd
 
-open:+:Садовод>asd
-open:+:Садовод>asd
-
-hide:+:Садовод>asd
-hide:+:Садовод>asd
+hide:+:Садовод > asd
+hide:+:Садовод > asd
